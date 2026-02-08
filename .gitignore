@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data/Output
+data_pools.csv
+*.csv
+*.json
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Playwright
+playwright/.cache/
+playwright/driver/
+
+# Secrets
+.env
+credentials*
+`

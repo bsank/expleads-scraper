@@ -12,6 +12,7 @@ pip-delete-this-directory.txt
 data_pools.csv
 *.csv
 *.json
+*.xls*
 
 # OS
 .DS_Store
